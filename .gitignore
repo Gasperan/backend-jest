@@ -1,0 +1,14 @@
+node_modules
+.nyc_output
+tmp
+coverage
+.env
+.npmrc
+.idea/
+.talismanrc
+.DS_Store
+launch.json
+.vscode/
+.clinic/
+*.log
+build/
